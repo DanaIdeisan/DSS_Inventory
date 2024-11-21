@@ -6,3 +6,4 @@ setuptools>=60.0.0
 distlib
 altair==4.2.2
 openpyxl==3.0.10
+pulp==2.7.0
